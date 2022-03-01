@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zen47175
+- 👋 Hi, I’m @zen
 - 👀 I’m interested in finance coding crypto 
 - 🌱 I’m currently learning MIS ABAC
 - 💞️ I’m looking to collaborate on ...
